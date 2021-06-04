@@ -12,5 +12,5 @@ The add-on unit will be controlled by a unit that comprises of the development b
 ![Circuit3_bb](https://user-images.githubusercontent.com/62476858/120764531-de648400-c535-11eb-9acc-309a7c334762.png)
 
 
-A prototype was developed for this project which sent out a buzzer alarm, and an emergency message to a preset mobile phone when triggered by a button.
+A prototype was developed for this project which sent out a buzzer alarm, and an emergency message to a preset mobile phone when triggered by a button.The circuit was successfully executed. On activation the location received by the GPS Module was transferred to the GSM Module which was sent as an SMS to the pre programmed phone number.The buzzer was also activated at the same time.
 
